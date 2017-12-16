@@ -1,0 +1,30 @@
+{
+  "name": "question-collect",
+  "version": "1.0.0",
+  "description": "在线日常问题及解决方案收集系统",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowphy/question-collect.git"
+  },
+  "keywords": [
+    "问题及解决方案收集"
+  ],
+  "author": "Crowphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crowphy/question-collect/issues"
+  },
+  "homepage": "https://github.com/crowphy/question-collect#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
